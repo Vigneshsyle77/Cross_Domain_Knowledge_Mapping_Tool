@@ -351,9 +351,35 @@ Future improvements could include:
 > I also understood how different modules—NER, relation extraction, semantic search, and visualization—can be integrated into a single interactive web app, and how to containerize and deploy it to the cloud.
 
 ---
+## 🎯 **Goal of the Project**
 
+To build a system that helps researchers and learners understand **cross-domain conceptual relationships**, making complex interdisciplinary research accessible and easy to explore.
+
+---
+
+## 📝 **Internship Details**
+
+* **Program:** Infosys Springboard Internship
+* **Domain:** Artificial Intelligence (AI) & Natural Language Processing (NLP)
+* **Duration:** 1 Month
+* **Role:** Project Developer – Text Processing, Feature Engineering & Knowledge Mapping
+
+---
+
+## 🤝 **Contributions**
+
+Contributions are welcome!
+Feel free to open issues or submit pull requests.
+
+---
+
+## 📜 **License**
+
+This project is licensed under the **MIT License**.
+
+---
 ## 👨‍💻 Author
 
 **Saivignesh Marapelli**  
-📅 *Milestone 1 & 2 – AI-KnowMap Project*  
-📍 Built with Python, Streamlit, NetworkX, PyVis, scikit-learn, and Docker.
+📅 *AI-KnowMap Project*  
+📍 Built with Python, Streamlit, NetworkX, PyVis, scikit-learn, Railway and Docker.
